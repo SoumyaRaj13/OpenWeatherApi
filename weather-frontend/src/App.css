@@ -1,0 +1,31 @@
+body {
+  margin: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   background: url("./IMG/Background.jpg")
+  /* background: url("https://images.unsplash.com/photo-1501973801540-537f08ccae7b") */
+  /* background: url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vecteezy.com%2Ffree-vector%2Fcloudy-sky&psig=AOvVaw2ig-ywlXk4p8j-r15UFWqC&ust=1758968602685000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCLiK9ema9o8DFQAAAAAdAAAAABAE") */
+    no-repeat center center fixed;
+  background-size: cover;
+  color: rgb(20, 20, 20);
+}
+
+.container {
+  max-width: 900px;
+  margin: auto;
+  padding: 20px;
+}
+
+.card {
+  background: rgba(0, 0, 0, 0.5);
+  border-radius: 12px;
+  padding: 20px;
+  margin: 20px auto;
+  text-align: center;
+  cursor: pointer;
+  transition: transform 0.2s;
+}
+
+.card:hover {
+  transform: scale(1.05);
+}
+
