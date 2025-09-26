@@ -6,10 +6,9 @@ It uses the **OpenWeatherMap API** to display current weather, forecasts, and de
 
 ---
 
-## 🚀 Features
-- 🌡️ View **current weather** (temperature, humidity, wind, precipitation)
+##  Features
+-  View **current weather** (temperature, humidity, wind, precipitation)
 - 🔎 **Search by city** to get real-time data
-- 📅 **5-day forecast** with icons
 - 🔐 **User authentication** (Spring Security + Basic Auth)
 - 🖼️ Attractive UI with background images for different conditions
 - 🔄 **Click for details** & **Go Back navigation**
