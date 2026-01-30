@@ -26,8 +26,7 @@ It uses the **OpenWeatherMap API** to display current weather, forecasts, and de
 - Spring Security
 - RestTemplate (for API calls)
 
-**API:**
-- [OpenWeatherMap API](https://openweathermap.org/api)  
+
 
 <img width="1275" height="638" alt="image" src="https://github.com/user-attachments/assets/29dae0f5-e78f-4ef1-b4bc-0024fd3e5849" />
 
